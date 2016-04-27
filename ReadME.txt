@@ -25,6 +25,12 @@ the Final folder and selecting "open in Terminal". The terminal should open up. 
 the command line:
 	./USzipCodes
 This will run my program.
+Keep in mind:
+There are functions in the program that will ask for zip codes, states, and city names. For the
+program to function effectively any zip codes that start with a 0 must be typed without this 0,
+all city names must be capitalized, spelled, and spaced correctly (Ex:Highlands Ranch), and all
+states must be typed in with their abbreviated names. This means Texas becomes TX, New York
+becomes NY, Colorado becomes CO, and so on.
 
 Dependencies:
 None, the zip code program uses basic libraries.
